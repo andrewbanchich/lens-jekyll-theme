@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Lens" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/lens.jpg "Lens Theme")
+![Lens Theme](images/lens.jpg "Lens Theme")
 
 # How to Use
 
