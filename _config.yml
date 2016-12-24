@@ -7,7 +7,7 @@ author:
 
 # Collection settings
 collections:
-- photos
+  photos:
 
 # Social settings
 500px_url:
