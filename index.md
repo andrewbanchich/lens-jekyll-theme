@@ -56,7 +56,7 @@ title: Lens by HTML5 UP
 		<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
 	</article>
 	<article>
-		<a class="thumbnail" href="assets/mages/fulls/11.jpg"><img src="assets/images/thumbs/11.jpg" alt="" /></a>
+		<a class="thumbnail" href="assets/images/fulls/11.jpg"><img src="assets/images/thumbs/11.jpg" alt="" /></a>
 		<h2>Pharetra ex non faucibus</h2>
 		<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
 	</article>
