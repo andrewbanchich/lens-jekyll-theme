@@ -1,6 +1,5 @@
 # Site settings
 title: Lens
-subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description:
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
