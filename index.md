@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Lens by HTML5 UP
