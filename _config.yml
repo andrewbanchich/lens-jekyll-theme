@@ -1,16 +1,9 @@
 # Site settings
 title: Lens
-email: youremailaddress@gmail.com
 description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
 
 # Social settings
 500px_url:
