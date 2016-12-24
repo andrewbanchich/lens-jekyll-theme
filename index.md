@@ -5,11 +5,15 @@ title: Lens by HTML5 UP
 
 <!-- Thumbnail -->
 <section id="thumbnails">
+{% for photo in site.photos %}
 	<article>
-		<a class="thumbnail" href="assets/images/fulls/01.jpg" data-position="left center"><img src="assets/images/thumbs/01.jpg" alt="" /></a>
-		<h2>Diam tempus accumsan</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+		<a class="thumbnail" href="{{ photo.url }}" data-position="left center"><img src="{{ photo.thumbnail }}" alt="" /></a>
+		<h2>{{ photo.title }}</h2>
+		<p>{{ photo.caption }}</p>
 	</article>
+{% endfor %}
+
+
 	<article>
 		<a class="thumbnail" href="assets/images/fulls/02.jpg"><img src="assets/images/thumbs/02.jpg" alt="" /></a>
 		<h2>Vivamus convallis libero</h2>
