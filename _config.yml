@@ -1,7 +1,7 @@
 # Site settings
 title: Lens
 email: youremailaddress@gmail.com
-description:
+description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
