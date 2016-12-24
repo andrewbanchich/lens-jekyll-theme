@@ -5,6 +5,10 @@ baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
 
+# Collection settings
+collections:
+- photos
+
 # Social settings
 500px_url:
 facebook_url:
