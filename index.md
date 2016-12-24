@@ -7,7 +7,7 @@ title: Lens by HTML5 UP
 <section id="thumbnails">
 {% for photo in site.photos %}
 	<article>
-		<a class="thumbnail" href="{{ photo.url }}" data-position="left center"><img src="{{ photo.thumbnail }}" alt="" /></a>
+		<a class="thumbnail" href="{{ photo.image }}" data-position="left center"><img src="{{ photo.thumbnail }}" alt="" /></a>
 		<h2>{{ photo.title }}</h2>
 		<p>{{ photo.caption }}</p>
 	</article>
