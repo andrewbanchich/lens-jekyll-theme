@@ -5,10 +5,10 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
-  - gem build forty_jekyll_theme.gemspec
+  - gem build lens_jekyll_theme.gemspec
   artifacts:
     paths:
     - public
-    - "forty_jekyll_theme-*.gem"
+    - "lens_jekyll_theme-*.gem"
   only:
   - master
