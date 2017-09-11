@@ -1,6 +1,6 @@
 # Site settings
 title: 生活不止眼前的苟且
-description: 人生沒有高低，只有左右。 <a href="http://html5up.net">HTML5 UP</a>
+description: 人生沒有高低，只有左右。
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
