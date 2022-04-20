@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "lens_jekyll_theme"
+  spec.name          = "minzhikou"
   spec.version       = "1.2"
-  spec.authors       = ["Andrew Banchich"]
-  spec.email         = ["andrewbanchich@gmail.com"]
+  spec.authors       = ["minzhikou"]
+  spec.email         = ["minzhikou"]
 
-  spec.summary       = %q{A Jekyll version of the "Lens" theme by HTML5 UP.}
-  spec.homepage      = "https://andrewbanchich.github.io/lens-jekyll-theme/"
+  spec.summary       = %q{minzhikou.}
+  spec.homepage      = "https://minzhikou.com/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
