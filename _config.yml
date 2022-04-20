@@ -1,9 +1,9 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+title: minzhikou
+description: welcome to <a href="https://www.minzhikou.com">minzhikou</a>
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "www.minzhikou.com" # the base hostname & protocol for your site
+author:minzhikou
 
 # Collection settings
 collections:
@@ -13,13 +13,13 @@ collections:
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com/u/minzhikou
+googleplus_url: https://plus.google.com/u/0/+minzhikou
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/minzhikou
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/minzhikou
 
 # Build settings
 markdown: kramdown
