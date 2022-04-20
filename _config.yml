@@ -3,7 +3,7 @@ title: minzhikou
 description: welcome to <a href="https://www.minzhikou.com">minzhikou</a>
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.minzhikou.com" # the base hostname & protocol for your site
-author:minzhikou
+author: minzhikou
 
 # Collection settings
 collections:
