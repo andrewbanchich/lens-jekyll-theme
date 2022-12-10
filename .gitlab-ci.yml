@@ -1,0 +1,14 @@
+image: ruby
+
+pages:
+  stage: deploy
+  script:
+  - gem install jekyll
+  - jekyll build -d public
+  - gem build lens_jekyll_theme.gemspec
+  artifacts:
+    paths:
+    - public
+    - "lens_jekyll_theme-*.gem"
+  only:
+  - master
